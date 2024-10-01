@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<a href="https://github.com/dqx0">
+  <img align="left" height="215px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dqx0&layout=donut&theme=radical" />
+</a>
+<a href="https://github.com/dqx0">
+  <img align="left" height="215px" src="https://github-readme-stats.vercel.app/api?username=dqx0&rank_icon=github&theme=radical" />
+</a>
 <!--
 **dqx0/dqx0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
